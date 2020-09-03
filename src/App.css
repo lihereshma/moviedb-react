@@ -376,7 +376,7 @@ h1:after {
 
 .details .status {
   margin: 0 1% 10px 0;
-  padding: 5px 3%;
+  padding: 5px;
   display: table;
   background-color: #ffc93c;
 }
